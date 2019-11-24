@@ -2,8 +2,7 @@
 
 This project is was developed as a solution to a problem presented at the PyTorch Scholarship Challenge 2018. Convolutional neural network was developed in order to classify photos of flowers into 102 categories.
 
-![](images/flower1.jpg?v=1&s=50 "Pink primrose")
-![](images/flower2.jpg "Yellow iris")
+<img src="https://github.com/jas97/PyTorchChallenge/tree/master/images/flower1.jpg" width="100" height="100">
 
 ## Prerequisites
 

@@ -13,7 +13,7 @@ This project is was developed as a solution to a problem presented at the PyTorc
 
 ## Using the classifier
 
-In order to train and evaluate a model, location of data must be passed as a command line argument
+In order to train and evaluate a model, location of data must be passed as a command line argument. Inside the provided folder there should be folders train and validate containing images for training and validation of the model.
 
 ```bash
 

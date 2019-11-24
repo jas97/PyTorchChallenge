@@ -10,6 +10,23 @@ This project is was developed as a solution to a problem presented at the PyTorc
 * torchvision
 * numpy 
 
+
+## Using the classifier
+
+In order to train and evaluate a model, location of data must be passed as a command line argument
+
+```py
+
+python final_project.py --train data_path 
+```
+To predict a class of an image using a pretrained model a path to image must be provided as the command line argument
+```py
+
+python final_project.py --predict image_path
+
+```
+
+
 ## Results
 
 On the test data model shows accuracy 

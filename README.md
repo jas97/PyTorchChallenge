@@ -15,14 +15,14 @@ This project is was developed as a solution to a problem presented at the PyTorc
 
 In order to train and evaluate a model, location of data must be passed as a command line argument
 
-```py
+```bash
 
-python final_project.py -train data_path 
+python final_project.py --train data_path 
 ```
 To predict a class of an image using a pretrained model a path to image must be provided as the command line argument
-```py
+```bash
 
-python final_project.py -predict image_path
+python final_project.py --predict image_path
 
 ```
 
